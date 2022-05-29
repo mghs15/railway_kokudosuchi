@@ -1,0 +1,2 @@
+# railway_kokudosuchi
+国土数値情報の鉄道をいい感じに加工したい
